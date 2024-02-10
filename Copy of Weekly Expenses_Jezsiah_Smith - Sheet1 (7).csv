@@ -1,0 +1,37 @@
+Date,Day_of_Week,Amount,Description,Category ,Method_of_Payment,Need_Want_Savings
+1/19,Friday,43.85,Clothes,Entertainment _Recreation,Debit,Want
+1/21,Sunday,4.49,Fortnite,Entertainment _Recreation,Debit,Want
+1/21,Sunday,8.99,Fortnite,Entertainment _Recreation,Debit,Want
+1/22,Monday,6.21,Coffee,Food,Debit,Need
+1/23,Tuesday,21.36,Skyline_Food,Food,Debit,Need
+1/24,Wednesday,34.65,Expense,Bills,Debit,Need
+1/24,Wednesday,6.25,Skyline_Food,Food,Debit,Need
+1/24,Wednesday,1.29,Candy,Food,Debit,Want
+1/25,Thursday,2.25,Coffee,Food,Debit,Need
+1/25,Thursday,10.96,Spotify_Bill,Entertainment _Recreation,Debit,Want
+1/25,Thursday,141.34,Purse,Entertainment _Recreation,Debit,Want
+1/25,Thursday,42.95,Flowers,Entertainment _Recreation,Debit,Want
+1/25,Thursday,7.79,Skyline_Food,Food,Debit,Need
+1/25,Thursday,8.44,Coffee,Food,Debit,Need
+1/26,Friday,20.60,Fees ,Bills,Debit,Need
+1/26,Friday,10.85,Fees ,Bills,Debit,Need
+1/26,Friday,7.79,Skyline_Food,Food,Debit,Need
+1/27,Saturday,32.25,Fees ,Bills,Debit,Want
+1/27,Saturday,35.35,Fees ,Bills,Debit,Want
+1/27,Saturday,40.33,Fees ,Bills,Debit,Want
+1/28,Sunday,11.99,Games,Entertainment _Recreation,Debit,Want
+1/29,Monday,40.33,Fees ,Bills,Debit,Need
+1/29,Monday,11.99,Games,Entertainment _Recreation,Debit,Want
+1/30,Tuesday,34.65,Fees ,Bills,Debit,Want
+1/31,Wednesday,80.00,recrerational_items,Entertainment _Recreation,Debit,Want
+2/1,Thursday,8.20,Skyline_Food,Food,Debit,Want
+2/1,Thursday,32.89,Fees ,Bills,Debit,Need
+2/2,Friday,51.75,Gundam,Entertainment _Recreation,Debit,Want
+2/2,Friday,34.71,Fees ,Bills,Debit,Need
+2/2,Friday,20.60,Fees ,Bills,Debit,Need
+2/3,Saturday,8.95,Skyline_Food,Food,Debit,Want
+2/4,Sunday,22.99,Fortnite,Entertainment _Recreation,Debit,Want
+2/4,Sunday,42.95,Fees ,Bills,Debit,Need
+2/5,Monday,4.85,Coffee,Food,Debit,Need
+2/6,Tuesday,4.85,Coffee,Food,Debit,Need
+2/7,Wednesday,$8.54,Coffee,Food,Debit,Need
